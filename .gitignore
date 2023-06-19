@@ -1,0 +1,7 @@
+.cache/
+.vscode/
+build/
+cmake-build-debug/
+__old/
+lib/
+pybind11/
